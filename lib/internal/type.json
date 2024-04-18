@@ -1,0 +1,37 @@
+{
+    "uptime": "2:24",
+    "load_average": 0.58,
+    "tasks": {
+        "total": 67,
+        "running": 1,
+        "sleeping": 66,
+        "stopped": 0,
+        "zombie": 0
+    },
+    "cpu": {
+        "us": 0.8,
+        "sy": 0.0,
+        "ni": 0.0,
+        "id": 99.2,
+        "wa": 0.0,
+        "hi": 0.0,
+        "si": 0.0,
+        "st": 0.0
+    },
+    "memory": {
+        "Mem": {
+            "total": 7748.1,
+            "free": 2927.6,
+            "used": 3623.8,
+            "buff/cache": 1196.7
+        }
+    },
+    "swap": {
+        "Swap": {
+            "total": 2048.0,
+            "free": 2048.0,
+            "used": 0.0
+        },
+        "avail": 3873.8
+    }
+}
