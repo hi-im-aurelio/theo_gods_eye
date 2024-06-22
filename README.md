@@ -6,15 +6,15 @@
 
    Processes Features:
 
-      1. **CPU Usage**
-      2. **RAM memory usage:**
-      3. **Disk Usage**
-      4. **Running processes**
-      5. **System Logs**
+      1. CPU Usage
+      2. RAM memory usage
+      3. Disk Usage
+      4. Running processes
+      5. System Logs
 
    Watch Dog Features:
 
-      1. **Listen to .log file creation events in a folder**
+      1. Listen to .log file creation events in a folder
 
 # RUN tools
 
